@@ -1,5 +1,7 @@
 {
   "recommendations": [
+    "esbenp.prettier-vscode",
+    "taichi.vscode-textlint",
     "yzhang.markdown-all-in-one"
   ]
 }

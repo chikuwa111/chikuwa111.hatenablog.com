@@ -1,0 +1,14 @@
+{
+  "name": "chikuwa111.hatenablog.com",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "prettier-plugin-md-nocjsp": "^1.2.0",
+    "textlint": "^12.1.1",
+    "textlint-rule-preset-ja-spacing": "^2.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0",
+    "textlint-rule-preset-jtf-style": "^2.3.12"
+  }
+}

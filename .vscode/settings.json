@@ -1,9 +1,12 @@
 {
   "editor.find.cursorMoveOnType": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.fontFamily": "BIZ UDゴシック, Consolas, Menlo, Monaco, 'Courier New', monospace",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
   "editor.lineNumbers": "off",
   "editor.minimap.enabled": false,
   "editor.trimAutoWhitespace": false,
-  "files.autoSave": "afterDelay",
-  "files.eol": "\n"
+  "files.eol": "\n",
+  "textlint.autoFixOnSave": true
 }
