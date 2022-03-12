@@ -1,0 +1,9 @@
+{
+  "editor.find.cursorMoveOnType": false,
+  "editor.fontFamily": "BIZ UDゴシック, Consolas, Menlo, Monaco, 'Courier New', monospace",
+  "editor.lineNumbers": "off",
+  "editor.minimap.enabled": false,
+  "editor.trimAutoWhitespace": false,
+  "files.autoSave": "afterDelay",
+  "files.eol": "\n"
+}
