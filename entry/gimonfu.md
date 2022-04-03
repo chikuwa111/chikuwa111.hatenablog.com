@@ -24,7 +24,7 @@ title: はてなブログのコンテンツをgimonfuでいい感じに管理す
 
 [yammerjp/gimonfu: CLI to manage hatena-blog articles](https://github.com/yammerjp/gimonfu)
 
-gimonfuについては[作者のQiita記事](https://qiita.com/yammerjp/items/1a38857f6bafb20f065d)で書かれているので詳細は省きます。簡単に紹介すると、GitHubのリポジトリにMarkdownファイルをpushすればはてなブログが更新される、という楽ちん環境を作るためのツール、となります。
+gimonfuについては[作者のQiita記事](https://qiita.com/yammerjp/items/1a38857f6bafb20f065d)で詳しく書かれているのでここでは省きます。簡単に紹介すると、GitHubのリポジトリにMarkdownファイルをpushすればはてなブログが更新される、という楽ちん環境を作るためのツール、となります。
 
 最初は[blogsync](https://github.com/x-motemen/blogsync)で管理しようとしていました。しかしblogsyncはローカルのためのツールであり、blogsyncでデリバリー部分も仕組み化するのは難しそうだと心が折れかけていました。もしgimonfuと出会っていなかったら本ブログは生まれていなかったかもしれません、、
 
@@ -34,7 +34,7 @@ gimonfuについては[作者のQiita記事](https://qiita.com/yammerjp/items/1a
 
 これがコンテンツを管理しているリポジトリです。現状は、mainブランチにpushされたらgimonfuで同期をとる、という仕組みのみ入っています。
 
-次やりたいことは、プルリクエストを作ったらPrettierのフォーマットとTextlintのレビューが走る仕組みの導入です。ここら辺の環境がパワーアップしたらまたブログで紹介します。
+次にやりたいことは、プルリクエストを作ったらPrettierのフォーマットとTextlintのレビューが走る仕組みの導入です。ここら辺の環境がパワーアップしたらまたブログで紹介します。
 
 # まとめ
 
