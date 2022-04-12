@@ -50,7 +50,7 @@ Apexパックとスーパーレジェンドシャードについての公式情�
 - 正確な数字は出せませんが、持っている武器チャームからおおよその数字を求めることができます
 - 以下からトレジャーパックで手に入れることのできた武器チャームなどを確認できます
   - [Quest - Apex Legends Wiki](https://apexlegends.fandom.com/wiki/Quest#List_of_Quests)
-  - [Treasure Packs (Season 10) - Apex Legends Wiki](https://apexlegends.fandom.com/wiki/Treasure_Packs_(Season_10))[^2]
+  - [Treasure Packs (Season 10) - Apex Legends Wiki](https://apexlegends.fandom.com/wiki/Treasure_Packs_%28Season_10%29)[^2]
 
 ## イベント
 
