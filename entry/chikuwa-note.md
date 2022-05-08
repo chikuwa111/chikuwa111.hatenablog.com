@@ -30,7 +30,7 @@ title: ちくわのノートを作った
 
 個人メモからこのリポジトリへコンテンツをコピーするためのツールは[chikuwa111/blog-builder](https://github.com/chikuwa111/blog-builder)にあります。
 
-個人的には[Quicklink](https://getquick.link/)を導入しているのがこだわりポイントです。これでページ遷移を高速化しています。
+[Quicklink](https://getquick.link/)を導入しているのがこだわりポイントです。これでページ遷移を高速化しています。
 
 # 更新を知る
 
