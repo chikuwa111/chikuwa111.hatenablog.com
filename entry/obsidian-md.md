@@ -1,7 +1,9 @@
 ---
 title: Obsidian.mdをしばらく使っている
+date: 2022-05-15T10:27:48.000Z
+id: "13574176438092632655"
+draft: false
 ---
-
 今回は私が使っているObsidianについて紹介します。
 
 # Obsidian.md
